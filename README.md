@@ -14,7 +14,7 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 
-CLIENT
+SERVER
 ```
 import socket
 s=socket.socket()
@@ -33,7 +33,7 @@ while True:
         break
 ```
 
-SERVER
+CLIENT
 ```
 import socket
 s=socket.socket()
@@ -45,7 +45,8 @@ while True:
 
 ## OUTPUT
 
-<img width="1864" height="1068" alt="Screenshot 2025-10-05 121520" src="https://github.com/user-attachments/assets/b3dfac31-cce2-4186-a832-948f3c12d0fd" />
+<img width="1623" height="1073" alt="image" src="https://github.com/user-attachments/assets/75e549ef-1b2d-4f54-b95b-f46a45d0802d" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
